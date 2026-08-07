@@ -1,0 +1,27 @@
+[
+  {
+    "model": "VADER",
+    "accuracy": 0.3687,
+    "weighted_f1": 0.4133
+  },
+  {
+    "model": "TextBlob",
+    "accuracy": 0.1193,
+    "weighted_f1": 0.0909
+  },
+  {
+    "model": "TF-IDF + Naive Bayes",
+    "accuracy": 0.4818,
+    "weighted_f1": 0.5367
+  },
+  {
+    "model": "BioBERT (Fine-Tuned) \u2014 Hold-Out Set",
+    "accuracy": 0.6139,
+    "weighted_f1": 0.6565
+  },
+  {
+    "model": "ClinicalBERT (Fine-Tuned)",
+    "accuracy": 0.5915,
+    "weighted_f1": 0.637
+  }
+]
