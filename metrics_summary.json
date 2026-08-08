@@ -15,9 +15,9 @@
     "weighted_f1": 0.5367
   },
   {
-    "model": "BioBERT (Fine-Tuned) \u2014 Hold-Out Set",
-    "accuracy": 0.6139,
-    "weighted_f1": 0.6565
+    "model": "BioBERT (Fine-Tuned)",
+    "accuracy": 0.6221,
+    "weighted_f1": 0.6626
   },
   {
     "model": "ClinicalBERT (Fine-Tuned)",
